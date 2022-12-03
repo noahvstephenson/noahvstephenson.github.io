@@ -1,4 +1,4 @@
-## Contact 📎
+## Contact 👋
 - [LinkedIn](https://www.linkedin.com/in/noahvstephenson/)
 - [Portfolio](https://noahvstephenson.github.io/)
 - [Twitter](https://twitter.com/noahvstephenson)
